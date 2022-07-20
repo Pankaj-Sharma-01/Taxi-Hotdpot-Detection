@@ -1,1 +1,1 @@
-# Taxi-Hotdpot-Detection
+# Taxi-Hotspot-Detection
